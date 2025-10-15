@@ -1,0 +1,13 @@
+<html>
+ <head>
+ <title>pagina cancion </title>
+ </head>
+ 
+ <body>
+ <center><h1>cancion</h1></center>
+ <p><a href="index.html"<volver al inicio></a></p>
+ </center>
+ <audio controls>
+ <source src="cancion"></audio>
+ </body>
+ </html>
